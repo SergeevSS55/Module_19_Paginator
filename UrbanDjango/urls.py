@@ -27,11 +27,3 @@ urlpatterns = [
 ]
 
 
-# urlpatterns = [
-#     path('admin/', admin.site.urls),
-#     path('platform/', platform),
-#     path('platform/games/', games),
-#     path('platform/cart/', cart),
-#     path("html_forms/", sign_up_by_html),
-#     path("django_forms/", sign_up_by_django),
-# ]
